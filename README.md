@@ -1,24 +1,20 @@
-# Recipe Manager
+# RecipEasy
 
 ## Intro
 
-Over the course of 2 weeks (8 or 9 days), we are building a recipe
-manager web application. 
-We will be desigining the app by first finding problems with current
-solutions and discovering features we want to implement for an MVP. 
+RecipEasy is a web application designed to help users manage their favorite recipes efficiently. The core feature of the application is a page scraper function that allows users to input a URL, retrieve the recipe, and save it to their profile.
 
-The main feature, the "skateboard" to our "car", is a page
-scaper function that will allow users to input a URL, retrieve the
-recipe, and have that saved to their profile. 
+The primary user interaction flow is as follows:
+**Sign up -> Retrieve Recipe -> Edit Recipe -> View Recipe in Profile Page**
 
-The first major interaction will follow this flow:
-**Sign up -> retrieve recipe -> edit recipe -> see recipe in profile page**
+The application includes the following features:
 
-Once our first goal is met, we will implement the following features:
-A user can edit their saved recipe. 
-A user can add their own recipe. 
-A user can search filter their recipes based on keywords / tags
-A user can see the nutritional value for each recipe. 
+Users can create an account and login.
+Users can scrape online recipes from websites and food blogs and save them to their account.
+Users can edit their saved recipes.
+Users can create their own recipes.
+Users can access their saved recipes on their profile for easy access.
+
 
 ## TechStack
 -MERN
