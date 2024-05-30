@@ -9,11 +9,11 @@ The primary user interaction flow is as follows:
 
 The application includes the following features:
 
-Users can create an account and login.
-Users can scrape online recipes from websites and food blogs and save them to their account.
-Users can edit their saved recipes.
-Users can create their own recipes.
-Users can access their saved recipes on their profile for easy access.
+- Users can create an account and login.
+- Users can scrape online recipes from websites and food blogs and save them to their account.
+- Users can edit their saved recipes.
+- Users can create their own recipes.
+- Users can access their saved recipes on their profile for easy access.
 
 
 ## TechStack
